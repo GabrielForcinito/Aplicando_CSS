@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* @charset é um parametro em CSS onde usamos ele para evitar problemas com acentuação nas palavras*/
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+body{
+    background-image: linear-gradient(to right, #e6e5e3, #8297A9);
+    }
+
+main{
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px #122b35bb;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    /* Main é uma tag que defini no html, onde o texto que está dentro dela possui uma importancia maior no site, basicamente definimos que o conteúdo do site está dentro dessa tag*/
+
+    /* A tag box-shadow é onde definimos uma sombra para o quadro branco que está o texto, o primeiro parâmetro é quanto a sombra vai andar para o lado; o segundo parâmetro é quanto a sombra vai andar para baixo; o terceiro parâmetro é quanto essa soombra vai espalhar; o quarto parâmetro é o nível de transparência da sombra e sua cor.*/
+
+    /* A tag border-radius basicamente arredonda a borda da região que vai ficar o texto*/
+    /* A tag width é para definir a largura do texto no nosso site, onde definimos com 600px.*/
+    /* A tag padding serve para criarmos uma margem ao redor do texto para ficar algo mais bem feito*/
+    /* A tag margin serve para centralizar esse bloco de texto na pág do navegador, sempre vai se ajustar ao centro*/
+    }
+
+h1{
+    text-align: center;
+    color: #163541c5;
+    text-shadow: 1px 1px 2px #16354186;
+  }
+
+h2{
+    color: #8297A9;
+  }
+
+ p{
+    text-align: justify;
+  }
