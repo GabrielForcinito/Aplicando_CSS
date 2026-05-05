@@ -4,7 +4,7 @@
 
 Você pode visualizar o projeto funcionando diretamente no navegador:
 
-<a href="https://gabrielforcinito.github.io/Aplicando-o-CSS/" target="_blank" rel="noopener noreferrer">
+<a href="https://gabrielforcinito.github.io/Aplicando_CSS/" target="_blank" rel="noopener noreferrer">
   - Acessar projeto online
 </a>
 
