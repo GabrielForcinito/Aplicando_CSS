@@ -1,15 +1,5 @@
 # 🎨 Aplicando CSS
 
-## 🔗 Projeto Online
-
-Você pode visualizar o projeto funcionando diretamente no navegador:
-
-<a href="https://gabrielforcinito.github.io/Aplicando_CSS/" target="_blank" rel="noopener noreferrer">
-  - Acessar projeto online
-</a>
-
----
-
 ## 📌 Sobre o projeto
 
 Este projeto foi desenvolvido com o objetivo de praticar a aplicação de **CSS em páginas HTML**, focando na melhoria visual, organização do conteúdo e separação entre estrutura e estilo.
