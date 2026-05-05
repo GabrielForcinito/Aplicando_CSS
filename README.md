@@ -5,7 +5,7 @@
 Você pode visualizar o projeto funcionando diretamente no navegador:
 
 <a href="https://gabrielforcinito.github.io/Aplicando-o-CSS/" target="_blank" rel="noopener noreferrer">
-  🚀 Acessar projeto online
+  - Acessar projeto online
 </a>
 
 ---
