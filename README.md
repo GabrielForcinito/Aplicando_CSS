@@ -4,8 +4,8 @@
 
 Você pode visualizar o projeto funcionando diretamente no navegador:
 
-<a https://gabrielforcinito.github.io/Aplicando_CSS/" target="_blank" rel="noopener noreferrer">
-  - Acessar projeto online
+<a href="https://gabrielforcinito.github.io/Aplicando-o-CSS/" target="_blank" rel="noopener noreferrer">
+  🚀 Acessar projeto online
 </a>
 
 ---
@@ -44,9 +44,9 @@ Este projeto foi desenvolvido com o objetivo de praticar a aplicação de **CSS 
 
 ### 🔹 Opção 1: Acessar online
 
-  - Acesse diretamente pelo navegador !!
+Acesse diretamente pelo navegador!!
 
-  ---
+---
 
 ### 🔹 Opção 2: Rodar localmente
 
