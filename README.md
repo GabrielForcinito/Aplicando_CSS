@@ -34,9 +34,9 @@ Este projeto foi desenvolvido com o objetivo de praticar a aplicação de **CSS 
 
 ### 🔹 Opção 1: Acessar online
 
-Acesse diretamente pelo navegador!!
+Acesse diretamente pelo navegador:
 
- -- Link na seção (About) --
+👉 Link disponível na seção **About** do repositório
 
 ---
 
