@@ -36,7 +36,7 @@ Este projeto foi desenvolvido com o objetivo de praticar a aplicação de **CSS 
 
 Acesse diretamente pelo navegador!!
 
-(Link na seção ABOUT -- Recomendado abrir em uma nova guia)
+ -- Link na seção (About) --
 
 ---
 
